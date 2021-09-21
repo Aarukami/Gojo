@@ -1,5 +1,5 @@
-#[Gojo](https://telegra.ph/file/25de56e1ac618c9ef00c8.jpg)
-# chifuyu-matsuno
+# [Gojo](https://telegra.ph/file/827408b63c867a13d4d94.jpg)
+# GOjo satoru
 [![Maintenance](https://img.shields.io/badge/Maintained%3F-yes-green.svg)](https://github.com/Aarukami/Gojo-/graphs/commit-activity) [![GPLv3 license](https://img.shields.io/badge/License-GPLv3-blue.svg)](https://perso.crans.org/besson/LICENSE.html)<br> [![Open Source Love svg2](https://badges.frapsoft.com/os/v2/open-source.svg?v=103)](https://github.com/ellerbrock/open-source-badges/) [![PRs Welcome](https://img.shields.io/badge/PRs-welcome-brightgreen.svg?style=flat-square)](https://makeapullrequest.com)<br> [![Updates channel!](https://img.shields.io/badge/Join%20Channel-↗-red)](https://t.me/mhaprvt) 
 [![Support Group!](https://img.shields.io/badge/Join%20Group-↗-green)](https://t.me/mhaprvt)
 
@@ -7,7 +7,7 @@
 > If There's no Trace of This Repo in your Bot, We will be pushing a gban on you from our systems.
 
 
-### Can be found on telegram as [Gojo](https://t.me/Baji_X_chifuyu_bot).
+### Can be found on telegram as [Gojo](https://t.me/I_Am_Strongest_bot).
 
 ##### For Session String, Run stringgen.py locally
 
@@ -34,7 +34,7 @@ Thanks To:
 
 
 
-The Support group can be reached out to at [Mhapvt](https://t.me/mhaprvt), where you can ask for help about [Chifuyu](https://t.me/Baji_X_chifuyu_bot), discover/request new features, report bugs, and stay in the loop whenever a new update is available. 
+The Support group can be reached out to at [Mhapvt](https://t.me/mhaprvt), where you can ask for help about [Gojo](https://t.me/I_Am_Strongest_bot), discover/request new features, report bugs, and stay in the loop whenever a new update is available. 
 
 <details>
 	<summary>Heroku Deploy</summary>
@@ -45,7 +45,7 @@ The Easiest Way to Deploy This Bot is Via Heroku.
 	
   <h1>
     <p align="center">
-        <a href="https://heroku.com/deploy?template=https://github.com/Aarukami/Gojo-.git">
+        <a href="https://heroku.com/deploy?template=https://github.com/Aarukami/Gojo.git">
             <img src="https://www.herokucdn.com/deploy/button.svg" alt="Deploy">
         </a>
     </p>
@@ -63,7 +63,7 @@ The Easiest Way to Deploy This Bot is Via Heroku.
 </p>
 
 ```console
-    IzumiCypherx@arch:~$ git clone https://github.com/Aarukami/Gojo-.git
+    IzumiCypherx@arch:~$ git clone https://github.com/Aarukami/Gojo.git
     IzumiCypherx@arch:~$ cd Gojo-
     IzumiCypherx@arch:~$ cp sample_config.py config.py
 ```
