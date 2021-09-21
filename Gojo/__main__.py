@@ -80,7 +80,7 @@ buttons = [
     ],
     [
         InlineKeyboardButton(
-          text="📮 Updates", url="https://t.me/chifuyumatsuno_RoBo"
+          text="📮 Updates", url="https://t.me/chifuyumatsuno_RoBot"
         ),
       
         InlineKeyboardButton(
@@ -90,7 +90,7 @@ buttons = [
          
     [
        InlineKeyboardButton(
-           text="🐱 Support", url="https://t.me/iamstrongest"
+           text="🐱 Support", url="https://t.me/i_am_strongest_support"
          ),
     ],
     [
