@@ -45,7 +45,7 @@ The Easiest Way to Deploy This Bot is Via Heroku.
 	
   <h1>
     <p align="center">
-        <a href="https://heroku.com/deploy?template=https://github.com/Aarukami/Gojo.git">
+        <a href="https://heroku.com/deploy?template=https://github.com/Aarukami/Gojo">
             <img src="https://www.herokucdn.com/deploy/button.svg" alt="Deploy">
         </a>
     </p>
