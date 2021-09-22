@@ -63,7 +63,7 @@ The Easiest Way to Deploy This Bot is Via Heroku.
 </p>
 
 ```console
-    IzumiCypherx@arch:~$ git clone https://github.com/Aarukami/Gojo.git
+    IzumiCypherx@arch:~$ git clone https://github.com/Aarukami/Gojo
     IzumiCypherx@arch:~$ cd Gojo-
     IzumiCypherx@arch:~$ cp sample_config.py config.py
 ```
